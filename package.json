@@ -1,6 +1,6 @@
 {
     "name": "profile-readme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "[✨] Beautiful, dynamic widgets for GitHub Readme pages",
     "main": "public/api/index.js",
     "scripts": {

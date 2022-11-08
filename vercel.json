@@ -16,11 +16,5 @@
             "destination": "public/api/index.js"
         }
     ],
-    "redirects": [
-        {
-            "source": "/",
-            "destination": "https://github.com/wangsizhu0504/profile-readme"
-        }
-    ],
     "cleanUrls": true
 }
